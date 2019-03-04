@@ -1,0 +1,5 @@
+<Configration>
+	<Width>8</Width>
+	<Height>8</Height>
+	<Highscores>5</Highscores>
+</Configration>
